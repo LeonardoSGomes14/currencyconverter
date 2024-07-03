@@ -80,6 +80,7 @@ Choose one of these currency conversions:
 Contribuições são bem-vindas! fique à vontade para abrir uma issue ou enviar um pull request.
 Obrigado :)
 
+
 ## Licença
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
