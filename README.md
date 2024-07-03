@@ -83,7 +83,3 @@ Obrigado :)
 ## Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
----
-
-Você pode adaptar este README conforme necessário para incluir informações adicionais ou para ajustar detalhes específicos do seu projeto.
